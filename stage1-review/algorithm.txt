@@ -1,0 +1,6 @@
+Step 1 --> In day4.sh file, I'm deleting files if exists then creating new files.
+Step 2 --> Using for loop, Listing/Filtering only java, py, js files and Finding names of that files.
+Step 3 --> 1st i'll delete exesting folders and Creating a new-folder with same name as Listed/Filtered file name.
+Step 4 --> 1st i'll delete exesting folders and Creating a new-folder with same name as extension name(i.e .java,.py,.js).
+Step 5 --> Moving extension name folders(i.e .java,.py,.js) to file name folder
+Step 6 --> then Moved original x.java,y.py,z.js files to a specificied folder(i.e .java,.py,.js).
